@@ -11,7 +11,7 @@
     "security":false,
     "addToIndex":true,
     "chainId":"96",
-    "checked":true,
+    "checked":false,
     "createdAt":"2022-08-02T04:11:01.814Z",
     "updatedAt":"2022-09-16T16:46:54.021Z",
     "marketCap":0
@@ -27,8 +27,8 @@
     "verified":true,
     "security":false,
     "addToIndex":true,
-    "chainId":"63",
-    "checked":true,
+    "chainId":"96",
+    "checked":false,
     "createdAt":"2022-08-02T04:11:01.814Z",
     "updatedAt":"2022-09-16T16:46:54.021Z",
     "marketCap":0
